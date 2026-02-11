@@ -1,5 +1,5 @@
 
-//s
+//
 function findsum(n){
     let sum = 0;
     
